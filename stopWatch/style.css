@@ -1,0 +1,33 @@
+
+body{
+    background-color: black;
+}.container {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 170px;
+}
+
+.timer {
+    font-size: 48px;
+}
+
+.controls {
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
